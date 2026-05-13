@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Pavel Ovanov
+😄 Beginner Python Developper 
 
-<!--
-**TheRealParyk/TheRealParyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Hard Skills:
+- SQLite
+- Flask
+- PyGame
+- NumPy
+- TensorFlow
 
-Here are some ideas to get you started:
+## My Projects:
+- A 2D platformer game called SpaceJump coded using PyGame.
+- A website made for making posts and blogs in order to share information and articles with other people.
+- A network capable of recognizing and classifying objets like dogs, cats or houses from an image. Also capable of detecting people's faces on and image.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Instagram: p4v31_p
