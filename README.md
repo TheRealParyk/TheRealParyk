@@ -8,6 +8,14 @@
 - NumPy
 - TensorFlow
 
+## My Soft Skills:
+- Problem-solving
+- Communication
+- Teamwork
+- Adaptability
+- Creativity
+- Good time management
+
 ## My Projects:
 - A 2D platformer game called SpaceJump coded using PyGame.(https://github.com/TheRealParyk/SpaceJump)
 - A website made for making posts and blogs in order to share information and articles with other people.(https://github.com/TheRealParyk/WebSite) (link:https://universalposting.pythonanywhere.com/)
